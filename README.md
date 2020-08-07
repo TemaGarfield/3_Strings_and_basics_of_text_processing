@@ -3,4 +3,6 @@
 ![Image alt](https://github.com/TemaGarfield/screenshots/blob/master/Module_3_chars.PNG)
 ## Strings (Работа со строкой как с объектом типа String или StringBuilder)
 ![Image alt](https://github.com/TemaGarfield/screenshots/blob/master/Module_3_Strings.PNG)
+## Regular (Работа с регулярными выражениями (Pattern, Matcher))
+![Image alt](https://github.com/TemaGarfield/screenshots/blob/master/Module_3_regular.PNG)
 
